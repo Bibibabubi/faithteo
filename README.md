@@ -1,4 +1,4 @@
-# faithteo.com
+# faithteo.com 
 
 Faith Teo's website — Be Your Own Hero. Built with [Astro](https://astro.build), deployed on Cloudflare Pages.
 
